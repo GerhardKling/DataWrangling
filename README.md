@@ -26,7 +26,7 @@ Finally, we will refactor the code. We define a function that takes a search ter
 
 ## Download Data from the Web in Python
 This tutorial covers the Python HTTP library, Requests, which can be used to obtain data from the web. We write a Python code that downloads climate data from http://berkeleyearth.org/. The same principle can be used to download files from other urls. I show you how to download the data into a text file. Then we use NumPy to load the text file into a NumPy array. Finally, we convert the data into a Pandas DataFrame. If this sounds like crazy data fun for you, please join us!
-### [YouTube video 2 01/04/2022 at 10am GMT](https://youtu.be/vzdsbVz7MsA)
+### [YouTube video 2](https://youtu.be/vzdsbVz7MsA)
 
 I show you how to create and activate a virtual environment (which is optional – but useful to do). We use the pip installer. 
 
@@ -42,3 +42,11 @@ We develop the code step-by-step. This will enable you to learn how to modify th
 - 2:26 Using Requests
 - 4:02 Save Data to File
 - 5:03 DataFrame 
+
+## Download Financial Data from Yahoo Finance using Python
+This tutorial covers the Python package yfinance, which enables us to connect to Yahoo Finance (API). We download data for the Bitcoin-USD trade and work with the Pandas DataFrame. Finally, we visualise the data using Matplotlib.
+### [YouTube video 3 scheduled on 22/06/2022 at 10am GMT](https://youtu.be/iGWg2gs7Nv4)
+
+
+
+
