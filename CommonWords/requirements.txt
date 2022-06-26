@@ -1,0 +1,6 @@
+Cython==0.29.28
+gensim==4.2.0
+numpy==1.23.0
+PyPDF2==2.3.1
+scipy==1.8.1
+smart-open==6.0.0
