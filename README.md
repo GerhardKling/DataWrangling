@@ -53,7 +53,7 @@ This is a detailed step-by-step guide that develops a Python code to read PDF fi
 All material is on [GitHub](https://github.com/GerhardKling/DataWrangling/tree/main/CommonWords).
 
 I show you how to create and activate a virtual environment (which is optional – but useful). Then we develop the code step-by-step. This will enable you to learn how to modify the code to suit your specific requirements. Please leave a comment if you have any questions.
-### [YouTube video 4 scheduled on 04/07/2022 at 10am GMT](https://youtu.be/3s0-TGLbB4M)
+### [YouTube video 4](https://youtu.be/3s0-TGLbB4M)
 
 **Chapters**
 - 0:00 Common Words in PDF Files
