@@ -61,3 +61,18 @@ I show you how to create and activate a virtual environment (which is optional â
 - 1:56 Main.py & Module
 - 2:44 The word_rank Function
 - 8:07 Counter Class
+
+## V5: Is Gold an Inflation Hedge? A Data Analysis
+This is a detailed step-by-step data analysis to explore whether investing in gold protects against inflation. The result might surprise you! We will explore free data sources (https://backtest.curvo.eu/market-index/gold-bullion) for gold spot prices and World Bank data. I will demonstrate how to import data into Stata and how to merge datasets. Finally, we explore the performance of our gold investment by controlling for inflation.
+
+### [YouTube video 5](https://youtu.be/bXJPH8gXOg4)
+
+## V6: Data from Reddit using Python: Errors with PSAW - try PMAW
+I have been working on a project that uses Reddit posts to enhance stock market predictions. The Python script uses an API to collect posts from WallStreetBets. My code worked fine for years, but errors occurred recently when using the PSAW package. You might get the error message: Got non 200 code 404 unable to connect to pushshift.io - I could not find a good solution using PSAW. This video discusses an alternative approach using PMAW, which extracts data from WallStreetBets without any issues.
+
+### [YouTube video 6](https://youtu.be/3pDZF4fWLBM)
+
+## V7: World Inequality Database: Free Data
+In this video, I want to show you the World Inequality Database or WID, in short. The WID provides access to free data focused on income and wealth inequality. It covers a wide range of countries, and time series data start in 1820, assuming the data is available. It is quite easy to select the time series, countries, and years for your data analysis. The tables can be rearranged, and you can select various data formats for download. For instance, CSV or Excel files can be imported into Pandas (Python) or Stata.
+
+### [YouTube video 7](https://youtu.be/-2k1zD9nyfY)
