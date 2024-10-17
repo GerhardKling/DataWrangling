@@ -76,3 +76,8 @@ I have been working on a project that uses Reddit posts to enhance stock market 
 In this video, I want to show you the World Inequality Database or WID, in short. The WID provides access to free data focused on income and wealth inequality. It covers a wide range of countries, and time series data start in 1820, assuming the data is available. It is quite easy to select the time series, countries, and years for your data analysis. The tables can be rearranged, and you can select various data formats for download. For instance, CSV or Excel files can be imported into Pandas (Python) or Stata.
 
 ### [YouTube video 7](https://youtu.be/-2k1zD9nyfY)
+
+## V8: Merge PDFs with Python in 5 minutes
+I explain how to merge PDF files using Python in a few lines of code. Do not trust online services with your PDF files or personal data (e.g., email address). It is better to do the merging yourself. We use PyPDF2 and the PdfMerger() class to do the job.
+
+### [YouTube video 8](https://youtu.be/uej1mZvFXPA)
